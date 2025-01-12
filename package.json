@@ -2,7 +2,7 @@
   "name": "source-custom",
   "description": "A default theme for the Ghost publishing platform",
   "demo": "https://source.ghost.io",
-  "version": "1.4.1",
+  "version": "1.4.1.1",
   "engines": {
     "ghost": ">=5.0.0"
   },
@@ -217,5 +217,6 @@
     "extends": [
       "@tryghost:theme"
     ]
-  }
+  },
+  "dependencies": {}
 }
